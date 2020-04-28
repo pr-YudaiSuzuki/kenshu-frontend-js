@@ -2,21 +2,21 @@
   width: 400px;
   margin: 40px auto 0;
 }
-label {
+#form div {
   display: flex;
   align-items: center;
   padding: 10px 0;
 }
-label span {
+#form div span {
   width: 150px;
 }
-label span .required{
+#form div span .required{
   color: red;
 }
-label input[name=name]{
+#form div input[name=name]{
   width: 100px;
 }
-label input[name=mail]{
+#form div input[name=mail]{
   width: 200px;
 }
 .terms {

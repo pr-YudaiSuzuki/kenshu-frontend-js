@@ -3,11 +3,11 @@
 # 前置き 
 
 まず各項目の `./README.md` の「内容」と「ねらい」、 `/example/index.html` をブラウザで見て、演習内容を確認してください。  
-その後、`/example/index.html` で記載された演習内容を満たすよう、 `/try/src/js/index.js` に実装を加えてください。  
+その後、`/example/index.html` で記載された演習内容を満たすよう、 `/try/src/js/index.js` に実装を加えてください。  
   
 参考図書とGoogleは程よく頼ってください。  
 困ったら各項目の「参考」を元に実装を進めてください。  
-にっちもさっちも行かない時には `/example/src/js/index.js` もしくは　`/example/src/js/jq.js` を参考にしてください。  
+行き詰まった時以外は `/example` の内にあるコードの内容を見ないよう実装してくだい。  
 
 ## 前置き2
 
