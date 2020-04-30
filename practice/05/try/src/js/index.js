@@ -7,4 +7,4 @@
     const text = input.value.indexOf('yes') > -1 ? input.value : '';
     document.getElementById('text').textContent = text;
   });
-});
+})();
